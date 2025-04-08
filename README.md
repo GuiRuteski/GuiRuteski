@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @GuiRuteski
 
 - 🌱 Sou estudante Analise e Desenvolvimento de Sistemas.
-- 📖 Estou me aprofundando no mometo em Java Script, .NET, HTML, CSS e C#.
-- 🦸‍♂️Sou Papai de duas princesas lindas 👧👧.
-- ⚙ E estou em transição de trabalho!
+- 📖 Estou me aprofundando no mometo em Java Script, .NET, Vue.JS, Python, MySQL.
+- ⚙ Atualemnte estou na área de infraestrutura de T.I 
 
 
 ">
