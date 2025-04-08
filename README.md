@@ -2,7 +2,7 @@
 
 - 🌱 Sou estudante Analise e Desenvolvimento de Sistemas.
 - 📖 Estou me aprofundando no mometo em Java Script, .NET, Vue.JS, Python, MySQL.
-- ⚙ Atualemnte estou na área de infraestrutura de T.I 
+- ⚙ Atualmente estou na área de infraestrutura de T.I 
 
 
 ">
