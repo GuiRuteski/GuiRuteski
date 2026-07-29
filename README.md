@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuiRuteski
 
 - 🌱 Sou estudante Analise e Desenvolvimento de Sistemas.
-- 📖 Estou me aprofundando no mometo em Java Script, .NET, Vue.JS, Python, MySQL.
+- 📖 Estou me aprofundando no momento em Java Script, .NET, Vue.JS, Python, MySQL, PostgreSQL, Docker.
 - ⚙ Atualmente estou na área de infraestrutura de T.I 
 
 
