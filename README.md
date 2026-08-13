@@ -1,39 +1,32 @@
-# 👋 Olá, eu sou Guilherme Ruteski!
+<h1 align="center">Olá 👋, eu sou Guilherme Ruteski</h1>
 
-### Frontend Developer | React • Next.js • TypeScript
+<h3 align="center">
+Frontend Developer | React • Next.js • TypeScript
+</h3>
 
-Sou desenvolvedor apaixonado por tecnologia e atualmente estou direcionando minha especialização para **desenvolvimento Frontend**, com foco na criação de aplicações web modernas, responsivas e com boa experiência de usuário.
-
-Atualmente estou aprofundando meus conhecimentos em:
-
-- ⚛️ React
-- ▲ Next.js
-- 🔷 TypeScript
-- 🎨 Tailwind CSS
-- 🌐 APIs REST
-- 🔀 Git e GitHub
-- 📱 Desenvolvimento responsivo
-- 🔎 SEO e SEO Local
-
-Também possuo conhecimentos em **Python, FastAPI, Flask, SQLAlchemy e PostgreSQL**, o que me permite compreender o fluxo completo entre interfaces, APIs e banco de dados.
+<p align="center">
+Atualmente focado em desenvolvimento Frontend moderno, criando aplicações responsivas, performáticas e com excelente experiência de usuário.
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor focado atualmente em **Frontend Development**
+💻 Desenvolvedor focado em Frontend
 
-🎯 Especializando-me em **React, Next.js e TypeScript**
+⚛️ Especializando-me em React e Next.js
 
-🧩 Experiência com desenvolvimento de aplicações web e integração com APIs
+🔷 Evoluindo diariamente em TypeScript
 
-🐍 Conhecimentos em **Python e desenvolvimento Backend**
+🎨 Construindo interfaces modernas com Tailwind CSS
 
-🗄️ Conhecimentos em bancos de dados relacionais
+🌐 Integração com APIs REST
 
-🐳 Estudos em **Docker e arquitetura de aplicações**
+🐍 Base sólida em Python e Backend
 
-📚 Sempre buscando aprender novas tecnologias e melhorar minhas práticas de desenvolvimento.
+🐳 Estudos contínuos em Docker e Arquitetura de Sistemas
+
+📚 Aprendizado constante e projetos reais
 
 ---
 
@@ -41,80 +34,84 @@ Também possuo conhecimentos em **Python, FastAPI, Flask, SQLAlchemy e PostgreSQ
 
 ### Frontend
 
-<div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,javascript" />
+</p>
 
 ### Backend
 
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" />
-</div>
+</p>
 
 ### Banco de Dados
 
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</div>
+</p>
 
 ### Ferramentas
 
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-</div>
+</p>
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projeto Principal
 
 ### 🏢 BK Centro Estético & Bem Estar
 
-Landing page desenvolvida para uma empresa real, com foco em apresentação profissional, responsividade, SEO local e conversão de visitantes em contatos.
+Landing page profissional desenvolvida para uma empresa real.
 
-**Tecnologias:**
+### Tecnologias
 
 - Next.js
 - React
 - TypeScript
 - Tailwind CSS
-- Lucide React
-- Git/GitHub
+- SEO Local
+- Structured Data
+- Google Maps
+- WhatsApp Integration
 
-**Principais características:**
+### Funcionalidades
 
-- 📱 Layout responsivo
-- 🔎 SEO local
-- 🗺️ Integração com localização
-- 💬 Integração com WhatsApp
-- 📸 Otimização de imagens
-- 📑 Sitemap e Robots
-- 📊 Structured Data / LocalBusiness
-- 🎨 Interface moderna e responsiva
+✅ Responsivo
+
+✅ SEO Local
+
+✅ Google Maps
+
+✅ WhatsApp
+
+✅ Sitemap
+
+✅ Robots.txt
+
+✅ LocalBusiness Schema
+
+✅ Performance otimizada
 
 ---
+
+## 📌 Outros Projetos
 
 ### 🍽️ SaborSoft
 
-Sistema para gerenciamento de restaurantes desenvolvido durante meus estudos de Backend e arquitetura de aplicações.
+Sistema para gerenciamento de restaurantes.
 
-**Tecnologias:**
+**Stack:**
 
-- Python
 - FastAPI
-- SQLAlchemy
 - PostgreSQL
+- SQLAlchemy
 - Docker
-- Swagger / OpenAPI
-
-O projeto foi desenvolvido com foco em organização de APIs, persistência de dados e estruturação de serviços.
+- Swagger
 
 ---
 
-## 📚 Atualmente estudando
-
-Atualmente estou direcionando meus estudos principalmente para **Frontend Development**.
-
-### Em foco:
+## 🎯 Atualmente estudando
 
 ```text
 React
@@ -125,10 +122,89 @@ TypeScript
    ↓
 Tailwind CSS
    ↓
-APIs REST
+SEO
    ↓
 Performance
    ↓
-SEO
-   ↓
 Arquitetura Frontend
+```
+
+Também continuo aprofundando conhecimentos em:
+
+- APIs REST
+- Docker
+- PostgreSQL
+- SQLAlchemy
+- Microserviços
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiRuteski&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRuteski&layout=compact&langs_count=8&theme=transparent"/>
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuiRuteski&theme=github-compact"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+📧 Email
+
+**guilhermeruteski@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/guilherme-ruteski/
+
+🐙 GitHub
+
+https://github.com/GuiRuteski
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como Frontend Developer construindo aplicações modernas utilizando:
+
+- React
+- Next.js
+- TypeScript
+
+Aliando minha experiência com Backend para compreender todo o fluxo entre:
+
+```text
+Usuário
+   ↓
+Interface
+   ↓
+Frontend
+   ↓
+API
+   ↓
+Backend
+   ↓
+Banco de Dados
+```
+
+---
+
+<div align="center">
+
+### 🚀 Sempre aprendendo. Sempre construindo.
+
+</div>
