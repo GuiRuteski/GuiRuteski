@@ -1,29 +1,134 @@
-- 👋 Hi, I’m @GuiRuteski
+# 👋 Olá, eu sou Guilherme Ruteski!
 
-- 🌱 Sou estudante Analise e Desenvolvimento de Sistemas.
-- 📖 Estou me aprofundando no momento em Java Script, .NET, Vue.JS, Python, MySQL, PostgreSQL, Docker.
-- ⚙ Desenvolver BackEND Jr aprimorando o FrontEND.
+### Frontend Developer | React • Next.js • TypeScript
 
+Sou desenvolvedor apaixonado por tecnologia e atualmente estou direcionando minha especialização para **desenvolvimento Frontend**, com foco na criação de aplicações web modernas, responsivas e com boa experiência de usuário.
 
-">
-  <a href="https://https://github.com/GuiRuteski">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guiruteski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiruteski&layout=compact&langs_count=7&theme=dark"/>
+Atualmente estou aprofundando meus conhecimentos em:
+
+- ⚛️ React
+- ▲ Next.js
+- 🔷 TypeScript
+- 🎨 Tailwind CSS
+- 🌐 APIs REST
+- 🔀 Git e GitHub
+- 📱 Desenvolvimento responsivo
+- 🔎 SEO e SEO Local
+
+Também possuo conhecimentos em **Python, FastAPI, Flask, SQLAlchemy e PostgreSQL**, o que me permite compreender o fluxo completo entre interfaces, APIs e banco de dados.
+
+---
+
+## 🚀 Sobre mim
+
+💻 Desenvolvedor focado atualmente em **Frontend Development**
+
+🎯 Especializando-me em **React, Next.js e TypeScript**
+
+🧩 Experiência com desenvolvimento de aplicações web e integração com APIs
+
+🐍 Conhecimentos em **Python e desenvolvimento Backend**
+
+🗄️ Conhecimentos em bancos de dados relacionais
+
+🐳 Estudos em **Docker e arquitetura de aplicações**
+
+📚 Sempre buscando aprender novas tecnologias e melhorar minhas práticas de desenvolvimento.
+
+---
+
+## 🛠️ Tecnologias
+
+### Frontend
+
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+### Backend
+
+<div>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" />
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/gui_ruteski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatoguilhermeruteski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-ruteski/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/guiruteski/guiruteski/blob/output/github-contribution-grid-snake.svg)
+
+### Banco de Dados
+
+<div>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</div>
+
+### Ferramentas
+
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</div>
+
+---
+
+## 📌 Projetos em destaque
+
+### 🏢 BK Centro Estético & Bem Estar
+
+Landing page desenvolvida para uma empresa real, com foco em apresentação profissional, responsividade, SEO local e conversão de visitantes em contatos.
+
+**Tecnologias:**
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Lucide React
+- Git/GitHub
+
+**Principais características:**
+
+- 📱 Layout responsivo
+- 🔎 SEO local
+- 🗺️ Integração com localização
+- 💬 Integração com WhatsApp
+- 📸 Otimização de imagens
+- 📑 Sitemap e Robots
+- 📊 Structured Data / LocalBusiness
+- 🎨 Interface moderna e responsiva
+
+---
+
+### 🍽️ SaborSoft
+
+Sistema para gerenciamento de restaurantes desenvolvido durante meus estudos de Backend e arquitetura de aplicações.
+
+**Tecnologias:**
+
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Docker
+- Swagger / OpenAPI
+
+O projeto foi desenvolvido com foco em organização de APIs, persistência de dados e estruturação de serviços.
+
+---
+
+## 📚 Atualmente estudando
+
+Atualmente estou direcionando meus estudos principalmente para **Frontend Development**.
+
+### Em foco:
+
+```text
+React
+   ↓
+Next.js
+   ↓
+TypeScript
+   ↓
+Tailwind CSS
+   ↓
+APIs REST
+   ↓
+Performance
+   ↓
+SEO
+   ↓
+Arquitetura Frontend
